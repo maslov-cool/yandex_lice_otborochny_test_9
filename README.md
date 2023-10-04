@@ -1,2 +1,2 @@
-# yandex_lice_otborochny_test_9
+# yandex_liceum_otborochny_test_9
  Решение 9 задачи из отборочного задания в яндекс лицей, условие на изображении, рядом с кодом.
